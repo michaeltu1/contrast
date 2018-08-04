@@ -14,8 +14,8 @@ style:
 
 navigation:
   - index.html
-  - archive.html
   - about.md
+  - archive.html
 
 comments:
   disqus: "disqus-contrast"
