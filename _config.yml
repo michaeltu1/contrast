@@ -3,7 +3,7 @@ author: "mtu"
 description: "Really cool blog about ... something"
 more: "read more »"
 url: "https://michaeltu1.github.io/"
-baseurl: "/contrast"
+baseurl: "/blog"
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
