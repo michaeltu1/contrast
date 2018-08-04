@@ -1,8 +1,14 @@
 ---
-title:  "Explorations Into Bioprinting Objects"
+title:  "Objectives"
 date:   2017-02-02 22:30:00
-categories: objects
+categories: text
 ---
+
+Objectives:
+
+- Optimizing hydrogel and cell culturing protocols for bioprinting
+- Building a fundamental knowledge base and supplemental skills for bioprinting
+- Facilitating further interest in tissue engineering research technologies
 
 #### 3D Printer Extruder Head Design
 
