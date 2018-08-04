@@ -1,8 +1,8 @@
 title: "Blog Title"
-author: "Blog Author"
+author: "Michael Tu"
 description: "Really cool blog about ... something"
 more: "read more »"
-url: "https://niklasbuschmann.github.io/"
+url: "https://michatu.github.io/"
 baseurl: "/contrast"
 paginate: 2
 permalink: pretty
@@ -23,8 +23,8 @@ comments:
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - twitter: "https://twitter.com/twitter/"
-  - github: "https://github.com/niklasbuschmann/contrast"
-  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - github: "https://github.com/michaeltu1"
+  - envelope: "mailto:mtu@berkeley.edu"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
